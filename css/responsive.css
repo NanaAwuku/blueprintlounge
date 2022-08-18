@@ -609,8 +609,9 @@ All this is done for any sub-level being entered.
     .master-slider .pi-text01,
     .master-slider .pi-text02,
     .master-slider .pi-text02 span,
-    .master-slider .divider {
-        visibility: hidden;
+    .master-slider .divider,
+    .pi-video {
+        visibility: block;
     }
 
     /*  CUSTOM REVIEWS

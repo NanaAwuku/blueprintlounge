@@ -1655,6 +1655,15 @@ a.more-details .fa{
     .bottle-frame{
         display: none;
     }
+   
+       
+    .tab-row .nav-tabs > li{
+        width: 50%;
+    }
+    .ms-slide{
+        background-image: url(../img/ban3.jpg);
+    }
+   
 }
 
 
