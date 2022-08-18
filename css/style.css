@@ -1661,6 +1661,10 @@ a.more-details .fa{
         width: 50%;
     }
     .ms-slide{
+        background-image: url(../img/phonehead6.jpg);
+    }
+    .ms-layer{
+        font-size: 5rem;
     }
    
 }
