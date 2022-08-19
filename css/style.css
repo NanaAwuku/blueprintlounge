@@ -1661,7 +1661,14 @@ a.more-details .fa{
         width: 50%;
     }
     .ms-slide{
-        background-image: url(../img/phonehead6.jpg);
+        background-image: url(../img/phone12.jpg);
+    }
+    .about-vid{
+        width: 100%;
+    }
+    .gabby > img{
+        display: none;
+
     }
    
    
@@ -2683,7 +2690,7 @@ ul#filters {
     width: 100%;
 }
 .team-member figcaption {
-    padding: 20px 5px 0 5px;
+    padding: 10px 5px 0 5px;
     max-width: 100%;
     font-size: 14px;
 }
@@ -2711,7 +2718,7 @@ ul#filters {
     line-height: 22px;
 }
 .team-member figcaption .member-about {
-    margin-top: 30px;
+   
 }
 .team-member figcaption .hr-simple {
     margin: 10px auto;
