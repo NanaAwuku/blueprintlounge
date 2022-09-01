@@ -1661,7 +1661,7 @@ a.more-details .fa{
         width: 50%;
     }
     .ms-slide{
-        background-image: url(../img/phone12.jpg);
+        /* background-image: url(../img/phone12.jpg); */
     }
     .about-vid{
         width: 100%;
